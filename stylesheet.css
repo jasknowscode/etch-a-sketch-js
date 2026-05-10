@@ -1,6 +1,18 @@
+.grid {
+    box-sizing: border-box;
+}
+
 #container {
     margin: 0px auto;
     position: relative;
     height: 960px;
     width: 960px;
+}
+
+button {
+    margin: 8px;
+    height: 148px;
+    width: 148px;
+    border-radius: 999px;
+    background-color: orange;
 }
