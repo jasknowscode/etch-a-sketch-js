@@ -5,7 +5,6 @@ container.style.display = "flex";
 container.style.flexFlow = "row wrap";
 container.style.justifyContent = "space evenly"
 container.style.margin = "0 auto";
-container.style.padding = "8px";
 
 window.onload = () => createGrid(16);
 function createGrid(n) {
